@@ -55,10 +55,4 @@ API Endpoints
 Error Handling
 The application handles errors gracefully and provides appropriate error messages and status codes in case of any issues.
 
-Credits
-This project was created by [Mayur Kumar Jha].
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 
